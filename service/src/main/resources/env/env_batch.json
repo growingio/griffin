@@ -21,7 +21,7 @@
       "type": "ELASTICSEARCH",
       "config": {
         "method": "post",
-        "api": "http://es:9200/griffin/accuracy",
+        "api": "http://qa-offline0:9200/griffin/accuracy",
         "connection.timeout": "1m",
         "retry": 10
       }
